@@ -6,6 +6,8 @@ payload:
   # > Kiro
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-KEYWORD,kiro
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-KEYWORD,amazonaws
 
   # > From PaoluzX
   - DOMAIN,browser-intake-datadoghq.com
