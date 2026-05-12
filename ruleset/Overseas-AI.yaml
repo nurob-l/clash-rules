@@ -1,4 +1,7 @@
 payload:
+  # > Agora Codex Proxy
+  - DOMAIN,sub2api.agoraio.cn
+
   # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,openai.com
